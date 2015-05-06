@@ -26,7 +26,7 @@ Learning rate 			(The amount the network takes each training session into accoun
 						
 An example of a command line call. Note that both files must be 32x32 or 8x8:
 
-java Neural optdigits8x8int.tra optdigits8x8int.tes 8 t 0.01
+				java Neural optdigits8x8int.tra optdigits8x8int.tes 8 t 0.01
 
 Here is a brief description of my Network algorithm:
 
